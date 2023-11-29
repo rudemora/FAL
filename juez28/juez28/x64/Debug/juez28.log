@@ -1,0 +1,3 @@
+﻿  juez28.cpp
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez28\juez28\juez28.cpp(12,23): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  juez28.vcxproj -> C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez28\x64\Debug\juez28.exe

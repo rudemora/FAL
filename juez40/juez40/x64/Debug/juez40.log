@@ -1,0 +1,3 @@
+﻿  juez40.cpp
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez40\juez40\juez40.cpp(39,48): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  juez40.vcxproj -> C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez40\x64\Debug\juez40.exe

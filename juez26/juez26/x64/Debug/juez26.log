@@ -1,0 +1,4 @@
+﻿  juez26.cpp
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez26\juez26\juez26.cpp(9,27): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez26\juez26\juez26.cpp(11,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  juez26.vcxproj -> C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez26\x64\Debug\juez26.exe

@@ -1,0 +1,5 @@
+﻿  juez38.cpp
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez38\juez38\juez38.cpp(15,41): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez38\juez38\juez38.cpp(18,36): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez38\juez38\juez38.cpp(21,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  juez38.vcxproj -> C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez38\x64\Debug\juez38.exe

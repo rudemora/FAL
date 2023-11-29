@@ -1,0 +1,4 @@
+﻿  juez46.cpp
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez46\juez46\juez46.cpp(70,38): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez46\juez46\juez46.cpp(107,60): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+  juez46.vcxproj -> C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez46\x64\Debug\juez46.exe

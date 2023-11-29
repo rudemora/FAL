@@ -1,0 +1,3 @@
+﻿  juez42.cpp
+C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez42\juez42\juez42.cpp(40,47): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  juez42.vcxproj -> C:\Users\HP\Desktop\DOBLE GRADO\SEGUNDO\FUNDAMENTOS DE ALGORITMIA\juez42\x64\Debug\juez42.exe
